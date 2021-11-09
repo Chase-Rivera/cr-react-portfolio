@@ -11,15 +11,15 @@ export default function UI() {
     const [value, setValue] = useState(0);
     const renderPage = () => {
         if (currentPage === 'AboutMe') {
-            return <AboutMe/>;
+            return <AboutMe />;
         }
         if (currentPage === 'Portfolio') {
-            return <Portfolio/>;
+            return <Portfolio />;
         }
         if (currentPage === 'Resume') {
-            return <Resume/>;
+            return <Resume />;
         }
-        return <Contact/>;
+        return <Contact />;
     };
 
     const handlePageChange = (page) => setCurrentPage(page);
