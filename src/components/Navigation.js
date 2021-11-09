@@ -1,7 +1,7 @@
 import { Container, Nav, Navbar } from "react-bootstrap";
 
 
-export default function Nav({ currentPage, handlePageChange, value, setValue }) {
+export default function Navigation({ currentPage, handlePageChange, value, setValue }) {
 
     return (
         <Navbar className="nav-color" variant="dark" expand="lg" fixed="top" collapseOnSelect>
