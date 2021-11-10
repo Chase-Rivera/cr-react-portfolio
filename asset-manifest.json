@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/cr-react-portfolio/static/css/main.a617e044.chunk.css",
-    "main.js": "/cr-react-portfolio/static/js/main.1bde71be.chunk.js",
-    "main.js.map": "/cr-react-portfolio/static/js/main.1bde71be.chunk.js.map",
-    "runtime-main.js": "/cr-react-portfolio/static/js/runtime-main.fd812c35.js",
-    "runtime-main.js.map": "/cr-react-portfolio/static/js/runtime-main.fd812c35.js.map",
-    "static/js/2.d6bf939c.chunk.js": "/cr-react-portfolio/static/js/2.d6bf939c.chunk.js",
-    "static/js/2.d6bf939c.chunk.js.map": "/cr-react-portfolio/static/js/2.d6bf939c.chunk.js.map",
-    "static/js/3.42d6307e.chunk.js": "/cr-react-portfolio/static/js/3.42d6307e.chunk.js",
-    "static/js/3.42d6307e.chunk.js.map": "/cr-react-portfolio/static/js/3.42d6307e.chunk.js.map",
+    "main.css": "/cr-react-portfolio/static/css/main.88404707.chunk.css",
+    "main.js": "/cr-react-portfolio/static/js/main.76b17b5c.chunk.js",
+    "main.js.map": "/cr-react-portfolio/static/js/main.76b17b5c.chunk.js.map",
+    "runtime-main.js": "/cr-react-portfolio/static/js/runtime-main.6d1a9347.js",
+    "runtime-main.js.map": "/cr-react-portfolio/static/js/runtime-main.6d1a9347.js.map",
+    "static/js/2.77103ea8.chunk.js": "/cr-react-portfolio/static/js/2.77103ea8.chunk.js",
+    "static/js/2.77103ea8.chunk.js.map": "/cr-react-portfolio/static/js/2.77103ea8.chunk.js.map",
+    "static/js/3.c194a189.chunk.js": "/cr-react-portfolio/static/js/3.c194a189.chunk.js",
+    "static/js/3.c194a189.chunk.js.map": "/cr-react-portfolio/static/js/3.c194a189.chunk.js.map",
     "index.html": "/cr-react-portfolio/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/cr-react-portfolio/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.d6bf939c.chunk.js.LICENSE.txt": "/cr-react-portfolio/static/js/2.d6bf939c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/cr-react-portfolio/static/media/logo.6ce24c58.svg"
+    "static/css/main.88404707.chunk.css.map": "/cr-react-portfolio/static/css/main.88404707.chunk.css.map",
+    "static/js/2.77103ea8.chunk.js.LICENSE.txt": "/cr-react-portfolio/static/js/2.77103ea8.chunk.js.LICENSE.txt",
+    "static/media/projectimg.css": "/cr-react-portfolio/static/media/jsquiz.4c749eae.png",
+    "static/media/App.css": "/cr-react-portfolio/static/media/inundationpr.01959243.png",
+    "static/media/me.bff484ce.jpeg": "/cr-react-portfolio/static/media/me.bff484ce.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd812c35.js",
-    "static/js/2.d6bf939c.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.1bde71be.chunk.js"
+    "static/js/runtime-main.6d1a9347.js",
+    "static/js/2.77103ea8.chunk.js",
+    "static/css/main.88404707.chunk.css",
+    "static/js/main.76b17b5c.chunk.js"
   ]
 }
