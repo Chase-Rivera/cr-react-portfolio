@@ -47,6 +47,7 @@ const projectData = [
 ]
 
 export function Portfolio() {
+    return (
     <>
         <div className="banner">
             <h1>My Portfolio!</h1>
@@ -76,4 +77,5 @@ export function Portfolio() {
             </Container>
         </div>
     </>
+    )
 };
