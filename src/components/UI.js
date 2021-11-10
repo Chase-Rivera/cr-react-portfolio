@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { Portfolio } from "./pages/Portfolio"
+import Portfolio from "./pages/Portfolio"
 import { Contact } from "./pages/Contact"
 import { Resume } from "./pages/Resume"
 import AboutMe from "./pages/AboutMe"
@@ -14,7 +14,7 @@ export default function UI() {
             return <AboutMe />;
         }
         if (currentPage === 'Portfolio') {
-            return <Portfolio />;
+            return <Portfolio/>;
         }
         if (currentPage === 'Resume') {
             return <Resume />;
